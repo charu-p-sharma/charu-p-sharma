@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charu Sharma</h1>
-<h3 align="center">A passionate frontend Enthusiast with UI/UX Skills & MERN Stack Explorer.</h3>
+<h3 align="center">A passionate Full Stack Developer with UI/UX Skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charu-p-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="charu-p-sharma" /> </p>
 
