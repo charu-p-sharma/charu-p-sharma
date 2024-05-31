@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://shorturl.at/bqF67](https://shorturl.at/bqF67)
 
-- 💬 Ask me about **Figma, UI/UX, Frontend, MERN Stack**
+- 💬 Ask me about **Figma, UI/UX, Frontend,Backend, MERN Stack**
 
 - 📫 How to reach me **https://www.linkedin.com/in/charu-sharma-9978a9252/**
 
